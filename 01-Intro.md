@@ -16,3 +16,12 @@
 
 ### What is Three.js?
 - Three.js is javascipt library which is built on  the top of WebGl. Three.js abstract the complex apis and simplfy it for the developers so that we can more focus on Development instead of learning WebGL.
+
+## Tech to Learn Three.js
+- Knowledge
+    - JavaScript
+    - Basic Math
+- Tools
+    - Chrome
+    - VS Code
+    - Blender (To create 3D Modal)
