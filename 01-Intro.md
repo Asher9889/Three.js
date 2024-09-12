@@ -25,3 +25,10 @@
     - Chrome
     - VS Code
     - Blender (To create 3D Modal)
+
+## Structure of a Three.js App
+<img src="https://res.cloudinary.com/saurabhbackend/image/upload/v1726143139/Screenshot_from_2024-09-12_17-39-58_mddbax.png">
+
+- ```Scene``` : Scene hold eveything that can be seen by the user.
+- ```Camera``` : Camers is what user is going to see at the given point of time.
+- ```Renderer``` : It takes an information from the Scene and camera. put together all the info and the generate the image or series of images for the user.  
